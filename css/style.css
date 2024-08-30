@@ -1,0 +1,106 @@
+
+/* start header section */
+
+
+
+.abdo{
+    text-align: center;
+    background-image: url(../img/istockphoto-1328354174-1024x1024.webp);
+    background-size: cover;
+    height: 550px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.abdo button{
+    margin-top: 10px;
+}
+
+
+
+/* end header section */
+
+
+
+
+/* edit hr */
+
+
+
+hr{
+    width: 600px;
+    margin: auto;
+    margin-top: 25px;
+    height: 2px;
+    background-color: red;
+}
+
+
+
+/*start form section */
+
+
+
+
+.ahmed{
+    margin-top: 25px;
+    background-image: url(../img/pexels-maotuizhutuzi-4432176.jpg);
+    background-size: cover;
+    height: 400px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.ahmed form{
+    width: 70%;
+}
+hr:nth-of-type(2){
+    background-color: blue;
+}
+
+
+
+/* end form section */
+
+
+
+/* start footer section */
+
+
+
+footer{
+    background-color: rgb(8, 8, 31);
+    color: white;
+    margin-top: 25px;
+}
+footer h2{
+    font-family: monospace;
+    
+}
+
+footer hr{
+    width: 200px;
+    background-color: white;
+}
+
+
+
+
+/* end footer section */
+
+
+
+/* start card section */
+
+.car img{
+
+    height: 150px;
+}
+
+
+/* end card section */
